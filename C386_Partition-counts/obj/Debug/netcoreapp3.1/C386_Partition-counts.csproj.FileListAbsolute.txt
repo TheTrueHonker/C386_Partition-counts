@@ -1,0 +1,13 @@
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.exe
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.deps.json
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.runtimeconfig.json
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.runtimeconfig.dev.json
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.dll
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\bin\Debug\netcoreapp3.1\C386_Partition-counts.pdb
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.csprojAssemblyReference.cache
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.AssemblyInfoInputs.cache
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.AssemblyInfo.cs
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.csproj.CoreCompileInputs.cache
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.dll
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.pdb
+C:\Users\daniel.wemmer\source\repos\C386_Partition-counts\C386_Partition-counts\obj\Debug\netcoreapp3.1\C386_Partition-counts.genruntimeconfig.cache

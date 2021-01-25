@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C386_Partition-counts", "C386_Partition-counts\C386_Partition-counts.csproj", "{AB3D546F-94B5-4FFD-A6D9-78D8D54BD128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C386_Partition-counts_Test", "C386_Partition-counts_Test\C386_Partition-counts_Test.csproj", "{47ABC9BD-C7AF-4697-AD2F-39D94460CD4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3D546F-94B5-4FFD-A6D9-78D8D54BD128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3D546F-94B5-4FFD-A6D9-78D8D54BD128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3D546F-94B5-4FFD-A6D9-78D8D54BD128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3D546F-94B5-4FFD-A6D9-78D8D54BD128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ABC9BD-C7AF-4697-AD2F-39D94460CD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ABC9BD-C7AF-4697-AD2F-39D94460CD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ABC9BD-C7AF-4697-AD2F-39D94460CD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ABC9BD-C7AF-4697-AD2F-39D94460CD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF311A8-0BE6-4C8D-BA2F-3A88ED9AA40F}
+	EndGlobalSection
+EndGlobal
